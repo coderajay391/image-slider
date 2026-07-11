@@ -3,7 +3,7 @@
 A simple responsive image slider built with **HTML + CSS + Vanilla JavaScript**.
 
 ## Preview
-<image scr="./assets/image-slider.png"></image>
+(assets/image-slider.png)
 
 ## Demo
 [watch demo](assets/image-slider.mp4)
